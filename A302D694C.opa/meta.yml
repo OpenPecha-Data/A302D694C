@@ -1,0 +1,20 @@
+id: A302D694C
+title: Toh_543-The_Root_Manual_of_the_Rites_of_Manjusri-v2
+type: translation
+pechas:
+- IFD7E4A19
+- IE81B484E
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-088-038
+  eft-text-version: 1.21.2 2020
+  title: Toh_543-The_Root_Manual_of_the_Rites_of_Manjusri-v2
+alignment_to_base:
+  IFD7E4A19/1B2E: 1C48
+  IE81B484E/2205: 1C48
